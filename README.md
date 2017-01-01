@@ -1,2 +1,2 @@
-# angular2-testing
-Learning how to test angular2 application by very simple examples.
+# Angular 2-Testing
+### Learning how to test angular2 application by very simple examples.
